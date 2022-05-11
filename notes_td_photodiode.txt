@@ -1,0 +1,8 @@
+Photodiode: transforme intensité lumineuse en courant électrique
+Transmission intercontinentale des données internet avec des fibres optiques qui ont besoin de répéteurs à base de photodetecteurs.
+kT = 26mev
+A 300°K:
+ni = 1.4*10¹⁰ electrons/cm³
+Causes du mouvement des espèces:
+- Application d'un potentiel
+- Potentiel de diffusion
